@@ -1,0 +1,201 @@
+ad_id,campaign_id,ad_platform,ad_type,target_gender,target_age_group,target_interests
+1,28,ThemyAd.com,Video,Female,35-44,"art, technology"
+2,33,ThemyAd.com,Stories,All,25-34,"travel, photography"
+3,20,TheyourAd.com,Carousel,All,25-34,technology
+4,28,ThemyAd.com,Stories,Female,25-34,news
+5,24,TheyourAd.com,Image,Female,25-34,news
+6,33,ThemyAd.com,Video,Male,25-34,"finance, health"
+7,9,ThemyAd.com,Image,Female,18-24,"fashion, gaming"
+8,13,ThemyAd.com,Carousel,All,25-34,technology
+9,49,TheyourAd.com,Stories,All,35-44,"fitness, lifestyle"
+10,17,ThemyAd.com,Stories,Female,18-24,art
+11,37,ThemyAd.com,Carousel,All,35-44,fashion
+12,45,ThemyAd.com,Stories,Female,35-44,"gaming, technology"
+13,6,ThemyAd.com,Stories,Female,All,"health, food"
+14,21,TheyourAd.com,Image,Female,35-44,"finance, lifestyle"
+15,28,ThemyAd.com,Stories,All,All,fashion
+16,18,ThemyAd.com,Video,Female,35-44,"food, gaming"
+17,48,TheyourAd.com,Image,All,35-44,"sports, travel"
+18,30,ThemyAd.com,Video,Male,18-24,photography
+19,3,ThemyAd.com,Video,Female,18-24,gaming
+20,38,TheyourAd.com,Image,Male,35-44,"art, travel"
+21,22,TheyourAd.com,Video,All,25-34,art
+22,30,ThemyAd.com,Stories,Male,35-44,finance
+23,33,ThemyAd.com,Image,All,18-24,news
+24,23,ThemyAd.com,Video,Female,All,technology
+25,29,ThemyAd.com,Video,Male,25-34,"travel, technology"
+26,42,ThemyAd.com,Image,Female,All,"gaming, health"
+27,4,TheyourAd.com,Video,Female,All,"health, fashion"
+28,48,ThemyAd.com,Image,Female,25-34,"finance, travel"
+29,23,TheyourAd.com,Carousel,All,18-24,"lifestyle, news"
+30,49,ThemyAd.com,Carousel,Female,25-34,sports
+31,21,ThemyAd.com,Image,Female,25-34,fashion
+32,29,TheyourAd.com,Stories,All,18-24,sports
+33,15,TheyourAd.com,Carousel,Female,All,photography
+34,26,TheyourAd.com,Stories,Female,35-44,"sports, technology"
+35,18,TheyourAd.com,Image,Female,25-34,"travel, finance"
+36,37,ThemyAd.com,Video,Male,18-24,"gaming, health"
+37,46,ThemyAd.com,Carousel,All,35-44,"gaming, travel"
+38,2,ThemyAd.com,Stories,Male,25-34,"finance, technology"
+39,34,TheyourAd.com,Stories,All,35-44,"lifestyle, gaming"
+40,21,ThemyAd.com,Stories,All,All,"health, finance"
+41,38,ThemyAd.com,Carousel,All,25-34,photography
+42,19,ThemyAd.com,Video,Female,25-34,health
+43,35,ThemyAd.com,Video,All,All,fitness
+44,40,ThemyAd.com,Video,Female,18-24,"fashion, gaming"
+45,38,ThemyAd.com,Carousel,Female,All,"sports, gaming"
+46,10,TheyourAd.com,Carousel,All,35-44,"technology, travel"
+47,17,TheyourAd.com,Image,Female,35-44,"fitness, sports"
+48,42,ThemyAd.com,Carousel,All,All,"finance, lifestyle"
+49,11,ThemyAd.com,Stories,All,25-34,finance
+50,5,TheyourAd.com,Stories,Female,35-44,news
+51,26,TheyourAd.com,Carousel,All,18-24,photography
+52,2,TheyourAd.com,Stories,Female,35-44,"health, lifestyle"
+53,13,ThemyAd.com,Stories,Female,25-34,sports
+54,29,TheyourAd.com,Image,Female,25-34,"technology, travel"
+55,39,TheyourAd.com,Carousel,Male,35-44,gaming
+56,1,TheyourAd.com,Stories,Female,35-44,news
+57,32,TheyourAd.com,Video,Female,All,lifestyle
+58,39,ThemyAd.com,Image,Male,18-24,"travel, health"
+59,31,TheyourAd.com,Stories,Male,18-24,lifestyle
+60,38,ThemyAd.com,Stories,All,35-44,health
+61,38,TheyourAd.com,Carousel,All,35-44,"sports, photography"
+62,20,ThemyAd.com,Image,Male,All,"fashion, lifestyle"
+63,3,ThemyAd.com,Video,Male,35-44,"sports, lifestyle"
+64,33,ThemyAd.com,Stories,Female,18-24,news
+65,4,ThemyAd.com,Stories,Female,All,finance
+66,22,ThemyAd.com,Video,All,All,"photography, finance"
+67,40,ThemyAd.com,Carousel,All,18-24,"technology, travel"
+68,17,ThemyAd.com,Image,All,18-24,sports
+69,13,ThemyAd.com,Stories,Female,18-24,health
+70,42,ThemyAd.com,Stories,Female,18-24,"travel, technology"
+71,21,ThemyAd.com,Stories,Male,All,"art, fashion"
+72,32,ThemyAd.com,Image,All,35-44,travel
+73,47,ThemyAd.com,Stories,Female,25-34,fitness
+74,17,TheyourAd.com,Image,Female,18-24,"finance, lifestyle"
+75,37,ThemyAd.com,Stories,Female,18-24,news
+76,11,ThemyAd.com,Video,Female,18-24,"technology, news"
+77,4,ThemyAd.com,Stories,Male,35-44,"fashion, photography"
+78,26,ThemyAd.com,Image,Female,18-24,"gaming, photography"
+79,17,TheyourAd.com,Carousel,Female,25-34,"travel, art"
+80,46,ThemyAd.com,Stories,Male,35-44,lifestyle
+81,29,TheyourAd.com,Carousel,All,25-34,"fitness, photography"
+82,24,ThemyAd.com,Stories,Female,18-24,food
+83,29,ThemyAd.com,Video,All,All,"health, art"
+84,8,ThemyAd.com,Image,Female,35-44,health
+85,20,ThemyAd.com,Carousel,Female,18-24,"finance, sports"
+86,20,ThemyAd.com,Image,Female,All,"fashion, gaming"
+87,31,TheyourAd.com,Image,All,18-24,"health, fashion"
+88,20,ThemyAd.com,Image,Female,25-34,"news, travel"
+89,1,ThemyAd.com,Carousel,Female,25-34,finance
+90,18,TheyourAd.com,Stories,Male,35-44,"fitness, gaming"
+91,37,ThemyAd.com,Video,All,18-24,"travel, gaming"
+92,4,ThemyAd.com,Carousel,Female,35-44,gaming
+93,34,TheyourAd.com,Carousel,Male,All,fashion
+94,14,ThemyAd.com,Video,Female,35-44,news
+95,36,TheyourAd.com,Image,All,25-34,fashion
+96,24,ThemyAd.com,Stories,Male,35-44,news
+97,45,TheyourAd.com,Image,All,25-34,"health, sports"
+98,3,ThemyAd.com,Stories,Female,18-24,"sports, finance"
+99,8,ThemyAd.com,Image,Female,35-44,"photography, fitness"
+100,50,TheyourAd.com,Image,Female,25-34,"art, photography"
+101,42,ThemyAd.com,Video,All,18-24,art
+102,46,ThemyAd.com,Image,All,25-34,"food, fashion"
+103,22,ThemyAd.com,Stories,Female,35-44,"health, fitness"
+104,20,ThemyAd.com,Carousel,All,18-24,food
+105,25,TheyourAd.com,Image,All,35-44,art
+106,22,ThemyAd.com,Stories,Female,All,"news, fashion"
+107,25,TheyourAd.com,Carousel,All,25-34,fashion
+108,37,ThemyAd.com,Carousel,Male,18-24,photography
+109,8,ThemyAd.com,Stories,All,35-44,"travel, fashion"
+110,23,TheyourAd.com,Image,Male,18-24,"fitness, finance"
+111,42,ThemyAd.com,Stories,Female,All,lifestyle
+112,15,ThemyAd.com,Video,All,35-44,food
+113,15,TheyourAd.com,Image,Female,18-24,"fitness, finance"
+114,38,ThemyAd.com,Stories,Female,18-24,"news, health"
+115,24,ThemyAd.com,Carousel,Female,All,"lifestyle, technology"
+116,4,ThemyAd.com,Video,All,All,lifestyle
+117,42,ThemyAd.com,Stories,All,18-24,"finance, travel"
+118,8,ThemyAd.com,Stories,All,All,"health, sports"
+119,44,TheyourAd.com,Carousel,All,35-44,health
+120,17,ThemyAd.com,Image,Male,All,news
+121,25,ThemyAd.com,Video,Male,35-44,news
+122,10,ThemyAd.com,Stories,All,35-44,health
+123,33,ThemyAd.com,Carousel,All,18-24,"finance, sports"
+124,34,TheyourAd.com,Image,Female,All,"technology, lifestyle"
+125,32,TheyourAd.com,Carousel,Female,18-24,photography
+126,38,ThemyAd.com,Carousel,All,25-34,art
+127,47,ThemyAd.com,Stories,Female,All,"gaming, travel"
+128,41,TheyourAd.com,Carousel,Male,18-24,"fitness, art"
+129,10,ThemyAd.com,Carousel,Female,35-44,sports
+130,22,ThemyAd.com,Image,Female,25-34,food
+131,17,ThemyAd.com,Image,Male,25-34,photography
+132,1,ThemyAd.com,Carousel,Female,18-24,news
+133,30,ThemyAd.com,Video,Male,All,"technology, health"
+134,25,ThemyAd.com,Image,Female,All,"health, gaming"
+135,47,TheyourAd.com,Stories,Male,18-24,sports
+136,7,ThemyAd.com,Stories,Female,35-44,fashion
+137,7,ThemyAd.com,Image,Female,All,health
+138,7,TheyourAd.com,Stories,All,18-24,food
+139,12,ThemyAd.com,Stories,Male,18-24,photography
+140,2,ThemyAd.com,Image,Female,All,photography
+141,44,TheyourAd.com,Stories,Male,35-44,travel
+142,29,ThemyAd.com,Image,All,All,"finance, news"
+143,10,ThemyAd.com,Stories,Female,35-44,"health, fitness"
+144,34,TheyourAd.com,Stories,Female,18-24,"fitness, health"
+145,20,ThemyAd.com,Carousel,Male,25-34,travel
+146,4,ThemyAd.com,Video,Female,All,gaming
+147,38,ThemyAd.com,Carousel,All,35-44,finance
+148,8,ThemyAd.com,Carousel,Male,All,"finance, photography"
+149,11,ThemyAd.com,Stories,All,18-24,"health, fitness"
+150,24,ThemyAd.com,Carousel,All,All,sports
+151,34,ThemyAd.com,Carousel,All,35-44,fashion
+152,24,TheyourAd.com,Carousel,Male,18-24,"gaming, news"
+153,46,ThemyAd.com,Video,All,18-24,photography
+154,27,TheyourAd.com,Stories,Female,All,"fitness, technology"
+155,30,ThemyAd.com,Video,All,25-34,food
+156,33,TheyourAd.com,Video,Female,18-24,"fitness, health"
+157,32,TheyourAd.com,Stories,Male,All,"news, sports"
+158,24,TheyourAd.com,Carousel,Female,18-24,fashion
+159,13,TheyourAd.com,Stories,All,25-34,"finance, travel"
+160,42,TheyourAd.com,Stories,All,25-34,"news, art"
+161,15,ThemyAd.com,Image,Female,18-24,"art, finance"
+162,6,TheyourAd.com,Carousel,All,35-44,gaming
+163,29,ThemyAd.com,Carousel,Female,25-34,photography
+164,25,TheyourAd.com,Stories,Male,25-34,fashion
+165,6,ThemyAd.com,Carousel,Male,25-34,gaming
+166,14,TheyourAd.com,Image,All,All,fashion
+167,42,TheyourAd.com,Carousel,All,25-34,art
+168,39,ThemyAd.com,Image,Male,All,"travel, finance"
+169,17,ThemyAd.com,Video,Female,All,art
+170,40,TheyourAd.com,Image,Male,35-44,sports
+171,13,TheyourAd.com,Stories,Male,All,health
+172,9,ThemyAd.com,Stories,Female,18-24,fitness
+173,47,ThemyAd.com,Stories,Male,All,"gaming, food"
+174,27,ThemyAd.com,Carousel,Female,35-44,"travel, finance"
+175,3,ThemyAd.com,Image,Male,25-34,"lifestyle, fitness"
+176,13,TheyourAd.com,Video,All,25-34,technology
+177,46,TheyourAd.com,Carousel,Female,35-44,travel
+178,24,ThemyAd.com,Stories,All,18-24,art
+179,5,TheyourAd.com,Stories,All,35-44,art
+180,47,TheyourAd.com,Image,Male,18-24,"finance, sports"
+181,37,TheyourAd.com,Stories,Male,35-44,"gaming, art"
+182,44,TheyourAd.com,Image,Female,35-44,"fashion, news"
+183,20,TheyourAd.com,Stories,All,All,gaming
+184,40,TheyourAd.com,Image,Male,25-34,travel
+185,36,TheyourAd.com,Carousel,Female,All,"sports, food"
+186,9,ThemyAd.com,Carousel,All,All,fitness
+187,31,ThemyAd.com,Image,All,25-34,art
+188,9,TheyourAd.com,Image,Female,18-24,"sports, health"
+189,41,ThemyAd.com,Image,All,All,"fashion, technology"
+190,33,ThemyAd.com,Image,Male,18-24,"photography, technology"
+191,19,ThemyAd.com,Image,All,25-34,lifestyle
+192,47,ThemyAd.com,Carousel,Female,35-44,fashion
+193,5,TheyourAd.com,Carousel,All,25-34,finance
+194,41,ThemyAd.com,Image,All,18-24,"food, travel"
+195,9,TheyourAd.com,Carousel,Female,35-44,"technology, fashion"
+196,12,ThemyAd.com,Stories,Male,35-44,"gaming, sports"
+197,9,ThemyAd.com,Stories,All,All,"lifestyle, gaming"
+198,34,ThemyAd.com,Video,All,35-44,"fitness, lifestyle"
+199,15,TheyourAd.com,Video,Male,25-34,"art, news"
+200,44,TheyourAd.com,Carousel,Male,18-24,photography
